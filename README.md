@@ -1,8 +1,12 @@
-# STATS 220
-This is my first time making page and I'm so excited!
+
+# STATS220 
+### Assignment 1 PartA 
+This is my first time making the website and I'm so excited!
 
 ## About me
-Hi I'm Airi **I love food** and play basketball. 🏀
+Hello, my name is Airi Sakata, current second year student at the [University of Auckland](https://www.auckland.ac.nz/en.html).
+
+**I love food** and play basketball. 🏀
 
 ## I also love memes!
 

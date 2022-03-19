@@ -14,8 +14,12 @@ I am from Japan and I have been in New Zealand since 2019.
 * I like watching anime
 
 ## Cute meme
-Below is a meme from my favorite anime Howl's Moving Castle, I made using the R package [{magick}](https://imgix.kotaku.com.au/content/uploads/sites/3/2016/02/17/whey2gwjqbx21xu023qo.gifar=16%3A9&auto=format&fit=crop&q=65&w=720&nr=20&fm=gif) 
+Below is a meme from my favorite anime Howl's Moving Castle, I made using the R package 
+[{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
+
 ![](my_meme.png)
+
+
 His name is Markl, my favorite character. 
 
 ```r

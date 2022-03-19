@@ -4,7 +4,10 @@
 This is my first time making the website and I'm so excited!
 
 ## About me
-Hello, my name is Airi Sakata, current second year student at the [University of Auckland](https://www.auckland.ac.nz/en.html).
+Hello, my name is Airi Sakata, current second year student at the [University of Auckland](https://www.auckland.ac.nz/en.html). 
+I am from Japan and I have been in New Zealand since 2019.
+
+#### my hobby 
 
 **I love food** and play basketball. 🏀
 

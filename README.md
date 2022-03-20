@@ -1,30 +1,22 @@
 
-# STATS220 
-## Assignment 1 PartA 
-This is my first time making the website and I'm so excited!
+# 💚 STATS220 💚
+## Assignment 1 📓
+The purpose of this repository is use the skill of  Github and R-studio that i've learnt so far (by the end of Module 1) in `stats 220`. This is my first time making the website and **I'm so excited!!**
 
-## About me
-Hello, my name is Airi Sakata, current second year student at the [University of Auckland](https://www.auckland.ac.nz/en.html). 
-I am from Japan and I have been in New Zealand since 2019.
+## Assignment description 👩‍🎓
+### Part A
+* Develop the `R code` to create a original meme
+* Create a new repository in my `GitHub` account
+* Upload my meme image, `R code` and the {magick} package to a new file **index.md**
 
-## What do I like  
+### Part B 
+* Create a `animation GI`F and display in R markdown
+* write a report of `learning reflection`
 
-* I like play basketball🏀 
-* I love Sushi
-* I like watching anime
+##  meme 😃
+I created a cute story in meme, please check out my meme from the link ➡️ 
 
-## Let's create meme
-Below is a meme from my favorite anime Howl's Moving Castle, I made using the R package [{magick}](https://www.sbs.com.au/popasia/sites/sbs.com.au.popasia/files/styles/body_image/public/howls_gif_0.gif?itok=s241_-fl&mtime=1496208973).
-![](my_meme.png)
-
-His name is Howl, my favorite character. 
+#### 💗 Have a nice day 💗
+![magick](https://media4.giphy.com/media/3oFzmfvmjd3iVfqyis/giphy.gif?cid=ecf05e47xr7hsnulwrwvfigljekqnlio4ksz55g5h015dxiv&rid=giphy.gif&ct=g) 
 
 
-
-```r
-## download the {magick} packages
-install.packages("magick")
-library("magick")
-meme <- image_read() 
-image_write(meme,"my_meme.png")
-```

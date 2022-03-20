@@ -4,7 +4,7 @@
 The purpose of this repository is use the skill of  Github and R-studio that i've learnt so far (by the end of Module 1) in `stats 220`. This is my first time making the website and **I'm so excited!!**
 
 ## Assignment description 👩‍🎓
-### *Part A
+### *Part A*
 * Develop the `R code` to create a original meme
 * Create a new repository in my `GitHub` account
 * Upload my meme image, `R code` and the {magick} package to a new file **index.md**

@@ -10,7 +10,7 @@ The purpose of this repository is use the skill of  Github and R-studio that i'v
 * Upload my meme image, `R code` and the {magick} package to a new file **index.md**
 
 ### Part B 
-* Create a `animation GI`F and display in R markdown
+* Create a `animation GIF` and display in R markdown
 * write a report of `learning reflection`
 
 ##  meme 😃

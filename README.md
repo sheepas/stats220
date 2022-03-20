@@ -14,7 +14,7 @@ The purpose of this repository is use the skill of  Github and R-studio that i'v
 * write a report of `learning reflection`
 
 ##  meme 😃
-I created a cute story in meme, please check out my meme from the link ➡️ 
+I created a cute story in meme, please check out my website page from here ➡️ [Click me](
 
 #### 💗 Have a nice day 💗
 ![magick](https://media4.giphy.com/media/3oFzmfvmjd3iVfqyis/giphy.gif?cid=ecf05e47xr7hsnulwrwvfigljekqnlio4ksz55g5h015dxiv&rid=giphy.gif&ct=g) 

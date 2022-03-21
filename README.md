@@ -1,7 +1,7 @@
 
 # 💚 STATS220 💚
 ## Assignment 1 📓
-The purpose of this repository is use the skill of  Github and R-studio that i've learnt so far (by the end of Module 1) in `stats 220`. This is my first time making the website and **I'm so excited!!**
+The purpose of this repository is use the skill of  Github and R-studio that i've learned so far (by the end of Module 1) in `stats 220`. This is my first time making the website and **I'm so excited!!**
 
 ## Assignment description 👩‍🎓
 ### *Part A*
